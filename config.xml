@@ -33,8 +33,7 @@
 
     <allow-intent href="*" />
 
-    <preference name="android-build-tool" value="gradle" /> 
-    <gap:plugin name="cordova-plugin-admobpro" source="npm" />
+
         
     <preference name="phonegap-version" value="cli-5.2.0" />
     <preference name="orientation"      value="default" />
